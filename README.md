@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 </table>
 </p>
 
-```md
+<p align=center>                           
+  <a href="https://github.com/jagan2255"><img align=center  src="https://gpvc.arturio.dev/jagan2255" alt="Visitors"></a>     
+</p>
+
 ![Profile views](https://gpvc.arturio.dev/jagan2255)
-```
+
