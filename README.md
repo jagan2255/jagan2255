@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 </table>
 </p>
 
-
-
-
-
-
+```md
 ![Profile views](https://gpvc.arturio.dev/jagan2255)
+```
