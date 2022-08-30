@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <tr>
   <td>
   <a href="https://github.com/jagan2255">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagan2255&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jagan's Github Stats" height="190rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagan2255&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jagan's Github Stats" height="200rem" />
   </a>
   </td>
   <td> 
-<a href="https://github.com/jagan2255"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan2255&layout=compact&theme=radical&hide_border=true" height="190rem"/></a>
+<a href="https://github.com/jagan2255"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan2255&layout=compact&theme=radical&hide_border=true" height="200rem"/></a>
   </td>
 </tr>
 </table>
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">![Profile views](https://gpvc.arturio.dev/jagan2255)</div>
+![Profile views](https://gpvc.arturio.dev/jagan2255)
