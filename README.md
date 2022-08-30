@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">[Profile views](https://gpvc.arturio.dev/jagan2255)</div>
+<div align="center">![Profile views](https://gpvc.arturio.dev/jagan2255)</div>
