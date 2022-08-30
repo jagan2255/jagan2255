@@ -2,8 +2,8 @@
 <h2 align="center">
  Hi there 👋 I am Jagan Varah
 </h2>
+<br>
 
-<br/>
 <!--
 **jagan2255/jagan2255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
