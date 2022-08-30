@@ -15,11 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagan2255&show_icons=true&theme=radical)
+<p align="center">
+<table>
+<tr>
+  <td>
+  <a href="https://github.com/jagan2255">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagan2255&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jagan's Github Stats" height="175rem" />
+  </a>
+  </td>
+  <td> 
+<a href="https://github.com/jagan2255"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan2255&layout=compact&theme=radical&hide_border=true" height="175rem"/></a>
+  </td>
+</tr>
+</table>
+</p>
 
 
 
 
 
 
-![Profile views](https://gpvc.arturio.dev/jagan2255)
+<div align="center">[Profile views](https://gpvc.arturio.dev/jagan2255)</div>
