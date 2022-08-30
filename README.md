@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <tr>
   <td>
   <a href="https://github.com/jagan2255">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagan2255&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jagan's Github Stats" height="175rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagan2255&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jagan's Github Stats" height="190rem" />
   </a>
   </td>
   <td> 
-<a href="https://github.com/jagan2255"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan2255&layout=compact&theme=radical&hide_border=true" height="175rem"/></a>
+<a href="https://github.com/jagan2255"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan2255&layout=compact&theme=radical&hide_border=true" height="190rem"/></a>
   </td>
 </tr>
 </table>
