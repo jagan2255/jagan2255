@@ -1,6 +1,6 @@
-### 
+ 
 <p align="center">
-Hi there 👋 I am Jagan Varah
+###Hi there 👋 I am Jagan Varah
 </p>
 
 <!--
