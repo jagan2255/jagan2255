@@ -1,6 +1,8 @@
  
-<p align="center"><h3>
- <b>Hi there 👋 I am Jagan Varah</b></h3>
+<p align="center">
+<h3>
+ Hi there 👋 I am Jagan Varah
+</h3>
 </p>
 
 <!--
