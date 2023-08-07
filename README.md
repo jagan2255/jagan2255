@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <br/>
-<!-- <p align=center>                           
-  <a href="https://github.com/jagan2255"><img align=center  src="https://gpvc.arturio.dev/jagan2255" alt="Visitors"></a>     
-</p> -->
+
 
 
